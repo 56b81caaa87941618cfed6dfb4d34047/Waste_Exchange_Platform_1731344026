@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the picture of the giant trash pile to be positioned within the app?\", \"option1\": \"At the homepage as a background image\", \"option2\": \"In the marketplace section to highlight trading items\"}, {\"question 2\": \"What style of the image do you prefer for the giant trash pile?\", \"option1\": \"A realistic photograph\", \"option2\": \"A cartoon or illustrated style\"}], \"input_token_count\": 290, \"output_token_count\": 99, \"time_taken\": \"0:00:02.993118\"}",
+        "timestamp": "11112024165430",
+        "message_id": "guest11112024165423"
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I'll add a picture of a giant trash pile.",
         "timestamp": "11112024165425",
