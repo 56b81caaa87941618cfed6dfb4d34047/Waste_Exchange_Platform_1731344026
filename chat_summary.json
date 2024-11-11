@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a picture of a giant trash pile\", \"checked\": true}, {\"feature\": \"Include a section for user testimonials about trash trading\", \"checked\": false}, {\"feature\": \"Implement a search bar to find specific items\", \"checked\": false}, {\"feature\": \"Create a separate category for upcycled items\", \"checked\": false}, {\"feature\": \"Add filters for sorting by condition (new, used, etc.)\", \"checked\": false}, {\"feature\": \"Incorporate a rating system for users to rate transactions\", \"checked\": false}], \"input_token_count\": 244, \"output_token_count\": 130, \"time_taken\": \"0:00:02.565786\"}",
+        "timestamp": "11112024165434",
+        "message_id": "guest11112024165423"
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the picture of the giant trash pile to be positioned within the app?\", \"option1\": \"At the homepage as a background image\", \"option2\": \"In the marketplace section to highlight trading items\"}, {\"question 2\": \"What style of the image do you prefer for the giant trash pile?\", \"option1\": \"A realistic photograph\", \"option2\": \"A cartoon or illustrated style\"}], \"input_token_count\": 290, \"output_token_count\": 99, \"time_taken\": \"0:00:02.993118\"}",
         "timestamp": "11112024165430",
